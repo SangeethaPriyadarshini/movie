@@ -9,7 +9,7 @@ public class MovieTicketBooking {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Welcome to Movie Ticket Booking System");
+        System.out.println("to Movie Ticket Booking System");
         System.out.println("------------------------------------------");
         System.out.println("Available Movies:");
         for (String movie : movies) {
